@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pratyushmittal04@gmail.com**
 
-- ⚡ Fun fact **Believe in the divine.**
+- ⚡ Fun fact **Believe in the divine half of your problem will automatically solve.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
