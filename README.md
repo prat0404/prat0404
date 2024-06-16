@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prat0404&label=Profile%20views&color=0e75b6&style=flat" alt="prat0404" /> </p>
 
 
-- 🌱 I’m currently learning **Generative AI Development,Prompt Engineering, Metaverse**
+- 🌱 I’m currently learning **Generative AI, ML, Software Designing**
 
 - 💬 Ask me about **ENTREPRENURSHIP, MACHINE LEARNING**
 
